@@ -25,7 +25,7 @@ export const sliderItems = [
 export const categories = [
     {
         id: 1,
-        img: "/assets/ladyformal3.png",
+        img: "//assets//ladyformal3.png",
         title: "SHIRT STYLE",
         cat: "shirts"
     },
